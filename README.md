@@ -1,9 +1,4 @@
 # Tran Xuan Dong
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E9BF7&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Security+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</div>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/%C4%91%C3%B4ng-tr%E1%BA%A7n-34ab65308/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
