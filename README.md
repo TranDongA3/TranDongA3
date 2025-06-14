@@ -6,45 +6,30 @@
 
 ## 👨‍💻 About Me
 
-I am a young developer passionate about web development and application security. With experience in building full-stack web applications and practicing security through real-world labs, I constantly seek new challenges to enhance my skills and create valuable products.
+I am a student passionate about building web applications and performing real-world security testing on websites. I enjoy learning through hands-on experience and challenges that help me grow and develop my skills.
 
 ## 🛠️ Skills & Technologies
 
 ### Programming Languages
 
-- 🟨 JavaScript (ES6+)
-- 🐍 Python
-- 💻 C++
+🟨 JavaScript (ES6+)        🐍 Python                    💻 C++
 
 ### Frontend Development
 
-- ⚛️ React.js
-- 🎨 CSS3/SASS
-- 🌬️ Tailwind CSS
-- 📱 Responsive Design
+ ⚛️ React.js                🎨 CSS3/SASS                 🌬️ Tailwind CSS                                📱 Responsive Design
 
 ### Backend Development
 
-- 🟦 Node.js
-- 🚂 Express.js
-- 🔒 Authentication & Authorization
-- 📡 RESTful APIs
+🟦 Node.js                  🚂 Express.js                🔒 Authentication & Authorization              📡 RESTful APIs
 
 ### Database
+🗃️ SQL Server                🐬 MySQL
 
-- 🗃️ SQL Server
-- 🐬 MySQL
-- 📊 Database Design & Optimization
 
 ### Tools & Technologies
 
-- 🧰 Git & GitHub
-- 🖥️ VS Code
-- 🐳 Docker
-- 🕷️ Burp Suite
-- 🔍 Nmap
-- 📬 Postman
-- 🔄 CI/CD
+🧰 Git & GitHub              🖥️ VS Code                   🐳 Docker                                     🕷️ Burp Suite                        📬Postman
+
 
 ## 🚀 Featured Projects
 
@@ -55,30 +40,25 @@ A full-featured e-commerce platform inspired by major marketplaces.
 - **Backend**: Node.js, Express, MySQL
 - **Frontend**: React, Tailwind CSS
 - **Features**: Product management, shopping cart, payment processing, user authentication
-- 🔗 [Backend Repository](link-to-backend)
-- 🔗 [Frontend Repository](link-to-frontend)
+- 🔗 [Backend Repository](https://github.com/thunww/Ecommerce-Be)
+- 🔗 [Frontend Repository](https://github.com/thunww/Ecommerce-Fe)
 
 ### 🧪 CTF_Duy_Tan_X-c-c
 
 A lab simulating the process of exploiting XSS vulnerabilities.
-
-- **Technologies**: JavaScript, HTML, CSS
 - **Objective**: Practice and deep understanding of web security
-- 🔗 [GitHub Repository](link-to-repo)
+- 🔗 [GitHub Repository](https://github.com/TranDongA3/CTF_Duy_Tan_X-c-c)
 
 ### 🐞 CTF Code Toàn Bug
 
 A PHP-based lab for analyzing and exploiting vulnerabilities in buggy code.
-
-- **Technologies**: PHP, MySQL
 - **Objective**: Enhance security skills and debugging capabilities
-- 🔗 [GitHub Repository](link-to-repo)
+- 🔗 [GitHub Repository](https://github.com/TranDongA3/CTF_code_toan_bug_PHP_aplication)
 
 ## 📫 Contact
 
-- 💼 [LinkedIn](your-linkedin-link)
+- 💼 [LinkedIn](https://www.linkedin.com/in/%C4%91%C3%B4ng-tr%E1%BA%A7n-34ab65308/)
 - 📧 Email: trandongbnn@gmail.com
-- 🌐 Portfolio: [your-portfolio-link]
 
 ## 🤝 Collaboration
 
