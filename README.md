@@ -1,9 +1,3 @@
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E9BF7&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Security+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</div>
-
 ## 👨‍💻 About Me
 
 I am a student passionate about building web applications and performing real-world security testing on websites. I enjoy learning through hands-on experience and challenges that help me grow and develop my skills.
