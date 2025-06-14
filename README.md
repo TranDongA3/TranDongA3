@@ -9,7 +9,7 @@ Tôi là một sinh viên đam mê phát triển web và ứng dụng bảo mậ
 - **Ngôn ngữ lập trình:** JavaScript, Python, C++
 - **Frontend:** React, CSS3, Tailwind CSS
 - **Backend:** Node.js, Express
-- **Database:** SQL ServerS, MySQL
+- **Database:** SQL Server, MySQL
 - **Tools:** Git, VS Code, Docker
 
 ## 🌟 Dự án nổi bật
