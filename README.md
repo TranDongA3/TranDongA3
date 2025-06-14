@@ -1,4 +1,5 @@
-# Tran Xuan Dong
+# 🚀 Tran Xuan Dong
+
 <div align="center">
   <a href="https://www.linkedin.com/in/%C4%91%C3%B4ng-tr%E1%BA%A7n-34ab65308/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
@@ -11,35 +12,35 @@
   </a>
 </div>
 
+---
+
 ## 👨‍💻 About Me
 
-I am a student passionate about building web applications and performing real-world security testing on websites. I enjoy learning through hands-on experience and challenges that help me grow and develop my skills.
+I am a student passionate about building web applications and performing real-world security testing on websites.  
+I enjoy learning through hands-on experience and challenges that help me grow and develop my skills.
+
+---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### 💻 Languages & Frameworks
 
-### Languages & Frameworks
+| JavaScript (ES6+) | Python | C++ |
+|-------------------|--------|-----|
+| React.js | CSS3 / SASS | Tailwind CSS |
+| Node.js | Express.js | Authentication |
 
-```
-🟨 JavaScript (ES6+)        🐍 Python                    💻 C++
-⚛️ React.js                🎨 CSS3/SASS                 🌬️ Tailwind CSS
-🟦 Node.js                 🚂 Express.js                🔒 Authentication
-```
+### 🧰 Databases & Tools
 
-### Databases & Tools
+| SQL Server | MySQL |
+|------------|-------|
+| Git & GitHub | VS Code |
+| Docker | Postman |
+| Nmap |  |
 
-```
-🗃️ SQL Server              🐬 MySQL                     📊 Database Design
-🧰 Git & GitHub            🖥️ VS Code                   🐳 Docker
-🔍 Nmap                    📬 Postman                   🔄 CI/CD
-```
-
-</div>
+---
 
 ## 🚀 Featured Projects
-
-<div align="center">
 
 ### 🛒 Web-Ecommerce Platform
 
@@ -47,10 +48,12 @@ I am a student passionate about building web applications and performing real-wo
 
 A full-featured e-commerce platform inspired by major marketplaces.
 
-- **Backend**: Node.js, Express, MySQL
-- **Frontend**: React, Tailwind CSS
-- **Features**: Product management, shopping cart, payment processing, user authentication
-- 🔗 [Backend](https://github.com/thunww/Ecommerce-Be) | [Frontend](https://github.com/thunww/Ecommerce-Fe)
+- **Backend**: Node.js, Express, MySQL  
+- **Frontend**: React, Tailwind CSS  
+- **Features**: Product management, shopping cart, payment processing, user authentication  
+🔗 [Backend](https://github.com/thunww/Ecommerce-Be) | [Frontend](https://github.com/thunww/Ecommerce-Fe)
+
+---
 
 ### 🧪 CTF_Duy_Tan_X-c-c
 
@@ -58,8 +61,10 @@ A full-featured e-commerce platform inspired by major marketplaces.
 
 A lab simulating the process of exploiting XSS vulnerabilities.
 
-- **Objective**: Practice and deep understanding of web security
-- 🔗 [Repository](https://github.com/TranDongA3/CTF_Duy_Tan_X-c-c)
+- **Objective**: Practice and deep understanding of web security  
+🔗 [Repository](https://github.com/TranDongA3/CTF_Duy_Tan_X-c-c)
+
+---
 
 ### 🐞 CTF Code Toàn Bug
 
@@ -67,26 +72,28 @@ A lab simulating the process of exploiting XSS vulnerabilities.
 
 A PHP-based lab for analyzing and exploiting vulnerabilities in buggy code.
 
-- **Objective**: Enhance security skills and debugging capabilities
-- 🔗 [Repository](https://github.com/TranDongA3/CTF_code_toan_bug_PHP_aplication)
+- **Objective**: Enhance security skills and debugging capabilities  
+🔗 [Repository](https://github.com/TranDongA3/CTF_code_toan_bug_PHP_aplication)
 
-</div>
+---
 
 ## 🤝 Let's Connect
 
 I'm always open to:
 
-- 🤝 Collaborating on interesting projects
-- 💬 Discussing technology and security
-- 💡 Sharing creative ideas
+- 🤝 Collaborating on interesting projects  
+- 💬 Discussing technology and security  
+- 💡 Sharing creative ideas  
 - 📚 Learning and exchanging experiences
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TranDongA3&style=flat-square&color=blue" alt="Profile Views"/>
-  <br/>
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=TranDongA3&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </div>
+
+---
 
 ⭐️ From TranDong
