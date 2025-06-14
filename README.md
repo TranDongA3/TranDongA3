@@ -4,42 +4,39 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E9BF7&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Security+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/%C4%91%C3%B4ng-tr%E1%BA%A7n-34ab65308/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:trandongbnn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://github.com/TranDongA3">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</div>
+
 ## 👨‍💻 About Me
 
 I am a student passionate about building web applications and performing real-world security testing on websites. I enjoy learning through hands-on experience and challenges that help me grow and develop my skills.
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Programming Languages
+### Languages & Frameworks
 
 ```
 🟨 JavaScript (ES6+)        🐍 Python                    💻 C++
+⚛️ React.js                🎨 CSS3/SASS                 🌬️ Tailwind CSS
+🟦 Node.js                 🚂 Express.js                🔒 Authentication
 ```
 
-### Frontend Development
-
-```
-⚛️ React.js                🎨 CSS3/SASS                 🌬️ Tailwind CSS                📱 Responsive Design
-```
-
-### Backend Development
-
-```
-🟦 Node.js                 🚂 Express.js                🔒 Authentication              📡 RESTful APIs
-```
-
-### Database
+### Databases & Tools
 
 ```
 🗃️ SQL Server              🐬 MySQL                     📊 Database Design
-```
-
-### Tools & Technologies
-
-```
-🧰 Git & GitHub            🖥️ VS Code                   🐳 Docker                      🕷️ Burp Suite
+🧰 Git & GitHub            🖥️ VS Code                   🐳 Docker
 🔍 Nmap                    📬 Postman                   🔄 CI/CD
 ```
 
@@ -47,40 +44,40 @@ I am a student passionate about building web applications and performing real-wo
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 ### 🛒 Web-Ecommerce Platform
+
+[![E-commerce](https://img.shields.io/badge/Project-E--commerce-orange?style=for-the-badge)](https://github.com/thunww/Ecommerce-Fe)
 
 A full-featured e-commerce platform inspired by major marketplaces.
 
 - **Backend**: Node.js, Express, MySQL
 - **Frontend**: React, Tailwind CSS
 - **Features**: Product management, shopping cart, payment processing, user authentication
-- 🔗 [Backend Repository](https://github.com/thunww/Ecommerce-Be)
-- 🔗 [Frontend Repository](https://github.com/thunww/Ecommerce-Fe)
+- 🔗 [Backend](https://github.com/thunww/Ecommerce-Be) | [Frontend](https://github.com/thunww/Ecommerce-Fe)
 
 ### 🧪 CTF_Duy_Tan_X-c-c
+
+[![CTF](https://img.shields.io/badge/Project-CTF-blue?style=for-the-badge)](https://github.com/TranDongA3/CTF_Duy_Tan_X-c-c)
 
 A lab simulating the process of exploiting XSS vulnerabilities.
 
 - **Objective**: Practice and deep understanding of web security
-- 🔗 [GitHub Repository](https://github.com/TranDongA3/CTF_Duy_Tan_X-c-c)
+- 🔗 [Repository](https://github.com/TranDongA3/CTF_Duy_Tan_X-c-c)
 
 ### 🐞 CTF Code Toàn Bug
+
+[![CTF](https://img.shields.io/badge/Project-CTF-green?style=for-the-badge)](https://github.com/TranDongA3/CTF_code_toan_bug_PHP_aplication)
 
 A PHP-based lab for analyzing and exploiting vulnerabilities in buggy code.
 
 - **Objective**: Enhance security skills and debugging capabilities
-- 🔗 [GitHub Repository](https://github.com/TranDongA3/CTF_code_toan_bug_PHP_aplication)
-
-## 📫 Contact
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/%C4%91%C3%B4ng-tr%E1%BA%A7n-34ab65308/)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:trandongbnn@gmail.com)
+- 🔗 [Repository](https://github.com/TranDongA3/CTF_code_toan_bug_PHP_aplication)
 
 </div>
 
-## 🤝 Collaboration
+## 🤝 Let's Connect
 
 I'm always open to:
 
@@ -93,6 +90,8 @@ I'm always open to:
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TranDongA3&style=flat-square&color=blue" alt="Profile Views"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TranDongA3&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </div>
 
 ⭐️ From TranDong
