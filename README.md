@@ -1,45 +1,41 @@
-# 👋 Xin chào, tôi là Trần Xuân Đông
 
-## 🚀 Giới thiệu
+👋 Hello, I'm Trần Xuân Đông
+🚀 About Me
+I’m a passionate student focused on web development and web security, especially in testing vulnerabilities through real-world labs. I'm always looking for new challenges to sharpen my skills and build valuable products. I’m eager to keep learning and improving every day.
 
-Tôi là một sinh viên đam mê phát triển web và ứng dụng bảo mật vào các website, kiểm thử các lổ hổng web trên các lab thực tế. Tôi luôn tìm kiếm những thách thức mới để phát triển kỹ năng và tạo ra những sản phẩm có giá trị, mong muốn học hỏi thêm nhiểu kiến thức.
+💻 Skills & Technologies
+Programming Languages: 🟨 JavaScript, 🐍 Python, 💻 C++
 
-## 💻 Kỹ năng & Công nghệ
+Frontend: ⚛️ React, 🎨 CSS3, 🌬️ Tailwind CSS
 
-- **Ngôn ngữ lập trình:** JavaScript, Python, C++
-- **Frontend:** React, CSS3, Tailwind CSS
-- **Backend:** Node.js, Express
-- **Database:** SQL Server, MySQL
-- **Tools:** Git, VS Code, Docker
+Backend: 🟦 Node.js, 🚂 Express
 
-## 🌟 Dự án nổi bật
+Database: 🗃️ SQL Server, 🐬 MySQL
 
-- Dự án Web-Ecommerce - Xây dựng một hệ thống web bán hàng lấy ý tưởng của các sàn thương mại điện tử
-    +https://github.com/thunww/Ecommerce-Be
-    +https://github.com/thunww/Ecommerce-Fe
-- Dự án CTF_Duy_Tan_X-c-c - Dựng lab mô tả lại quy trình khai thác lỗ hổng XSS
-    +https://github.com/TranDongA3/CTF_XSS_payload_test
-- Dự án CTF code toàn bug - Dựng lab phân tích về cách khai thác lổ hổng trong code toàn bug
-    +https://github.com/TranDongA3/CTF_code_toan_bug_PHP_aplication
+Tools & Others:
+🧰 Git • 🖥️ VS Code • 🐳 Docker • 🕷️ Burp Suite • 🔍 Nmap • 📬 Postman
 
-## 📊 GitHub Stats
+🌟 Highlight Projects
+🛒 Web-Ecommerce Project – A full-featured e-commerce platform inspired by major marketplaces
+🔗 Backend Repository
+🔗 Frontend Repository
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TranDong&show_icons=true&theme=radical)
+🧪 CTF_Duy_Tan_X-c-c – A lab simulating the process of exploiting XSS vulnerabilities
+🔗 GitHub Repository
 
-## 🤝 Kết nối
+🐞 CTF Code Toàn Bug – A PHP-based lab for analyzing and exploiting vulnerabilities in buggy code
+🔗 GitHub Repository
 
-- LinkedIn: https://www.linkedin.com/in/%C4%91%C3%B4ng-tr%E1%BA%A7n-34ab65308/
-- Email: trandongbnn@gmail.com
+🤝 Connect With Me
+💼 LinkedIn
 
+📧 Email: trandongbnn@gmail.com
 
-## 📫 Liên hệ
+📫 Contact Me If You Want To:
+🤝 Collaborate on projects
 
-Hãy liên hệ với tôi nếu bạn muốn:
+💬 Discuss technology & security
 
-- Hợp tác trong các dự án
-- Thảo luận về công nghệ
-- Chia sẻ ý tưởng
+💡 Share creative ideas
 
----
-
-⭐️ From [TranDong](https://github.com/TranDong)
+⭐️ From TranDong
