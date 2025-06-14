@@ -1,4 +1,4 @@
-# Tran Xuan Dong
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E9BF7&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Security+Enthusiast;Problem+Solver" alt="Typing SVG" />
