@@ -36,7 +36,8 @@ I enjoy learning through hands-on experience and challenges that help me grow an
 |------------|-------|
 | Git & GitHub | VS Code |
 | Docker | Postman |
-| Nmap |  |
+| Nmap |  | Burpsuite | WireShark
+
 
 ---
 
