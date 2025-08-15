@@ -1,58 +1,189 @@
-🚀 Tran Xuan Dong
-<div align="center"> <a href="https://www.linkedin.com/in/%C4%91%C3%B4ng-tr%E1%BA%A7n-34ab65308/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/> </a> <a href="mailto:trandongbnn@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/> </a> <a href="https://github.com/TranDongA3"> <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/> </a> </div>
-👨‍💻 About Me
+# 🛡️ Tran Xuan Dong | Cybersecurity Enthusiast
 
-I am a passionate student in web development and cybersecurity, especially interested in building real-world applications and performing security testing.
-I love learning by doing, tackling challenges, and continuously improving my skills through hands-on experience.
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Cybersecurity+Student;Penetration+Testing+Enthusiast;Web+Security+Researcher;CTF+Player)
+  
+  <a href="https://www.linkedin.com/in/%C4%91%C3%B4ng-tr%E1%BA%A7n-34ab65308/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:trandongbnn@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/TranDongA3">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  
+</div>
 
-🛠️ Tech Stack
-💻 Languages & Frameworks
-JavaScript (ES6+)	Python	C++
-React.js	CSS3 / SASS	Tailwind CSS
-Node.js	Express.js	Authentication
-🧰 Databases & Tools
-SQL Server	MySQL
-Git & GitHub	VS Code
-Docker	Postman
-Nmap	Burp Suite
-🚀 Featured Projects
-🛒 Web E-Commerce Platform
+---
 
-A full-featured e-commerce platform inspired by top marketplaces.
+## 🎯 Professional Summary
 
-Backend: Node.js, Express, MySQL
+🔐 **Aspiring Cybersecurity Professional** with hands-on experience in **penetration testing**, **web application security**, and **vulnerability assessment**. Currently seeking a **Cybersecurity Internship** to apply my technical skills and contribute to organizational security posture.
 
-Frontend: React, Tailwind CSS
+**🎓 Key Strengths:**
+- **Penetration Testing**: Web application vulnerability assessment and exploitation
+- **Security Research**: Designing and implementing CTF challenges for educational purposes  
+- **Full-Stack Development**: Building secure web applications with security-first mindset
+- **Problem Solving**: Analytical approach to identifying and mitigating security risks
 
-Key Features: Product management, shopping cart, payment integration, user authentication
-🔗 Backend Repository | Frontend Repository
+---
 
-🧪 CTF_Duy_Tan_X-c-c
+## 🛡️ Cybersecurity Arsenal
 
-A CTF lab designed to simulate XSS vulnerability exploitation.
+### 🔍 **Security Testing & Analysis**
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
-Goal: Practice and deeply understand web security concepts
-🔗 View Project
+### 💻 **Development & Scripting**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-🐞 CTF Code Toàn Bug
+### 🌐 **Web Technologies**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-A PHP-based lab for analyzing and exploiting vulnerabilities in intentionally buggy code.
+### 🗄️ **Databases & Infrastructure**
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-Goal: Improve debugging skills and security testing capabilities
-🔗 View Project
+---
 
-🤝 Let's Connect
+## 🏆 Featured Security Projects
 
-I’m always open to:
+### 🎯 **CTF Challenge Development**
 
-🤝 Collaborating on exciting projects
+#### 🧪 **CTF_Duy_Tan_X-c-c** | *XSS Vulnerability Lab*
+```
+🔹 Designed comprehensive XSS exploitation scenarios
+🔹 Created educational content for web security concepts
+🔹 Implemented multiple attack vectors and mitigation strategies
+🔹 Technologies: HTML, JavaScript, PHP
+```
+**🎯 Learning Outcomes:** Deep understanding of client-side security vulnerabilities and defense mechanisms
 
-💬 Discussing technology and security topics
+[🔗 **View Project**](#) | [📖 **Documentation**](#)
 
-💡 Sharing creative ideas
+---
 
-📚 Learning and exchanging experiences
+#### 🐛 **CTF Code Toàn Bug** | *Vulnerability Analysis Lab*
+```
+🔹 Developed intentionally vulnerable PHP applications
+🔹 Focused on common coding mistakes leading to security flaws
+🔹 Implemented scenarios for SQL injection, authentication bypass, and more
+🔹 Created detailed exploitation guides and remediation steps
+```
+**🎯 Learning Outcomes:** Enhanced skills in secure coding practices and vulnerability assessment
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=TranDongA3&style=flat-square&color=blue" alt="Profile Views"/> <br/><br/> <img src="https://github-readme-stats.vercel.app/api?username=TranDongA3&show_icons=true&theme=radical" alt="GitHub Stats"/> </div>
+[🔗 **View Project**](#) | [📚 **Writeups**](#)
 
-⭐ From Tran Xuan Dong
+---
+
+### 💼 **Full-Stack Security Project**
+
+#### 🛒 **Secure E-Commerce Platform**
+```
+🔹 Built with security-first development approach
+🔹 Implemented robust authentication and authorization
+🔹 Applied OWASP security guidelines throughout development
+🔹 Features: Secure payment processing, input validation, session management
+```
+**🛡️ Security Features:**
+- JWT-based authentication with secure token handling
+- SQL injection prevention through parameterized queries
+- XSS protection with input sanitization and CSP headers
+- HTTPS enforcement and secure cookie implementation
+
+**🔧 Tech Stack:** Node.js, Express.js, React, MySQL, Tailwind CSS
+
+[🔗 **Backend Repository**](#) | [🔗 **Frontend Repository**](#) | [🛡️ **Security Analysis**](#)
+
+---
+
+## 📈 Security Learning Path
+
+### 🎯 **Current Focus Areas**
+- **Web Application Penetration Testing** (OWASP Top 10)
+- **Network Security Assessment** (Port scanning, vulnerability analysis)
+- **Secure Software Development Lifecycle** (SSDLC)
+- **Incident Response Planning** and methodology
+
+### 🏅 **Certifications in Progress**
+- 🎯 **CompTIA Security+** (Planned: Q4 2024)
+- 🎯 **CEH (Certified Ethical Hacker)** (Goal: Q1 2025)
+
+### 📚 **Continuous Learning**
+- Regular participation in **online CTF competitions**
+- Following **CVE databases** and security advisories
+- Contributing to **open-source security tools**
+- Building **personal penetration testing lab environment**
+
+---
+
+## 💡 Why Choose Me for Your Cybersecurity Internship?
+
+### 🔥 **Practical Experience**
+✅ Hands-on experience with industry-standard security tools  
+✅ Self-directed learning through CTF development and participation  
+✅ Real-world application of security concepts in web development  
+
+### 🎯 **Security Mindset**
+✅ Proactive approach to identifying and mitigating security risks  
+✅ Strong understanding of attack methodologies and defense strategies  
+✅ Commitment to staying updated with latest security trends and threats  
+
+### 🚀 **Technical Foundation**
+✅ Solid programming background enabling custom tool development  
+✅ Full-stack development experience with security integration  
+✅ Database security and secure architecture design knowledge  
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TranDongA3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TranDongA3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TranDongA3&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF)
+  
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+I'm actively seeking opportunities to:
+
+🎯 **Contribute** to cybersecurity projects and initiatives  
+💬 **Discuss** the latest security trends and emerging threats  
+🔬 **Collaborate** on security research and vulnerability disclosure  
+📚 **Share knowledge** through technical documentation and presentations  
+
+### 📫 **Get In Touch**
+- 💼 **Professional Inquiries**: [trandongbnn@gmail.com](mailto:trandongbnn@gmail.com)
+- 🔗 **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/%C4%91%C3%B4ng-tr%E1%BA%A7n-34ab65308/)
+- 💻 **GitHub**: Follow my security projects and contributions
+
+---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=TranDongA3&style=flat-square&color=00D4FF&label=Profile+Views)
+  
+  **⭐ "Security is not a product, but a process" - Bruce Schneier**
+  
+  *Ready to contribute to your organization's cybersecurity mission* 🛡️
+  
+</div>
