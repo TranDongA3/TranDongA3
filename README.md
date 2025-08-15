@@ -71,7 +71,7 @@
 ```
 **🎯 Learning Outcomes:** Deep understanding of client-side security vulnerabilities and defense mechanisms
 
-[🔗 **View Project**](#) | [📖 **Documentation**](#)
+[🔗 **View Project**](https://github.com/TranDongA3/CTF_Duy_Tan_X-c-c) | [🔗 **Additional Lab**](https://github.com/TranDongA3/CTF_Duy_Tan_Another)
 
 ---
 
@@ -84,7 +84,7 @@
 ```
 **🎯 Learning Outcomes:** Enhanced skills in secure coding practices and vulnerability assessment
 
-[🔗 **View Project**](#) | [📚 **Writeups**](#)
+[🔗 **View Project**](https://github.com/TranDongA3/CTF_code_toan_bug_PHP_aplication) | [📚 **Code Analysis**](https://github.com/TranDongA3/CTF_code_toan_bug_PHP_aplication/blob/main/README.md)
 
 ---
 
@@ -105,7 +105,7 @@
 
 **🔧 Tech Stack:** Node.js, Express.js, React, MySQL, Tailwind CSS
 
-[🔗 **Backend Repository**](#) | [🔗 **Frontend Repository**](#) | [🛡️ **Security Analysis**](#)
+[🔗 **Backend Repository**](https://github.com/thunww/Ecommerce-Be) | [🔗 **Frontend Repository**](https://github.com/thunww/Ecommerce-Fe) | [🛡️ **Security Features**](#security-implementation)
 
 ---
 
