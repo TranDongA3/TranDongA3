@@ -64,9 +64,9 @@
 
 #### 🏁 **WriteupCTF_PTIT_2025-Vong_loai**
 ```
-🔹 Tổng hợp lời giải vòng loại PTIT CTF 2025
-🔹 Chủ đề: Web, Crypto, Pwn, Misc (tiêu biểu)
-🔹 Kèm phân tích ý tưởng, payload, và script khai thác
+🔹 Consolidated solutions for PTIT CTF 2025 Qualifiers
+🔹 Tracks covered: Web, Crypto, Pwn, Misc (highlights)
+🔹 Includes rationale, payloads, and exploitation scripts
 ```
 [🔗 **View Writeup**](https://github.com/TranDongA3/WriteupCTF_PTIT_2025-Vong_loai)
 
@@ -74,9 +74,9 @@
 
 #### 🕸️ **Writeup_ChungKetCTF_PTIT-Web-Exploitation**
 ```
-🔹 Tổng hợp các bài Web trong Chung Kết PTIT CTF
-🔹 Trình bày từng lỗ hổng, quy trình khai thác và cách vá cơ bản
-🔹 Nhấn mạnh các kỹ thuật: XSS, SSRF, SQLi, auth bypass (tùy đề)
+🔹 Web track solutions from PTIT CTF Finals
+🔹 Per-challenge writeups: vulnerability, exploitation flow, basic mitigation
+🔹 Emphasis on XSS, SSRF, SQLi, auth bypass (depending on tasks)
 ```
 [🔗 **View Writeup**](https://github.com/TranDongA3/Writeup_ChungKetCTF_PTIT-Web-Exploitation)
 
@@ -84,9 +84,9 @@
 
 #### 🌞 **Writeup_SunshineCTF**
 ```
-🔹 Ghi chép lời giải các challenge tiêu biểu tại SunshineCTF
-🔹 Tập trung vào Web/Forensics/Crypto (tùy challenge)
-🔹 Mô tả tư duy, công cụ sử dụng và bài học rút ra
+🔹 Selected challenge writeups from SunshineCTF
+🔹 Focus areas: Web/Forensics/Crypto (per challenge)
+🔹 Thought process, tooling, and key takeaways
 ```
 [🔗 **View Writeup**](https://github.com/TranDongA3/Writeup_SunshineCTF)
 
@@ -94,9 +94,9 @@
 
 #### 🧠 **TECH-OLYMPICS-2025-CTF_Writeup**
 ```
-🔹 Tổng hợp writeup CTF TECH OLYMPICS 2025
-🔹 Trình bày chi tiết hướng giải và script minh họa
-🔹 Tập trung best-practices khi khai thác và phòng thủ cơ bản
+🔹 Comprehensive writeups for TECH OLYMPICS 2025 CTF
+🔹 Detailed approach with illustrative scripts
+🔹 Highlights exploitation best practices and basic defenses
 ```
 [🔗 **View Writeup**](https://github.com/TranDongA3/TECH-OLYMPICS-2025-CTF_Writeup)
 
