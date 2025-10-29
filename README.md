@@ -60,52 +60,45 @@
 
 ## 🏆 Featured Security Projects
 
-### 🎯 **CTF Challenge Development**
+### 📝 Latest CTF Writeups
 
-#### 🧪 **CTF_Duy_Tan_X-c-c** | *XSS Vulnerability Lab*
+#### 🏁 **WriteupCTF_PTIT_2025-Vong_loai**
 ```
-🔹 Designed comprehensive XSS exploitation scenarios
-🔹 Created educational content for web security concepts
-🔹 Implemented multiple attack vectors and mitigation strategies
-🔹 Technologies: HTML, JavaScript, PHP
+🔹 Tổng hợp lời giải vòng loại PTIT CTF 2025
+🔹 Chủ đề: Web, Crypto, Pwn, Misc (tiêu biểu)
+🔹 Kèm phân tích ý tưởng, payload, và script khai thác
 ```
-**🎯 Learning Outcomes:** Deep understanding of client-side security vulnerabilities and defense mechanisms
-
-[🔗 **View Project**](https://github.com/TranDongA3/CTF_Duy_Tan_X-c-c) | [🔗 **Additional Lab**](https://github.com/TranDongA3/CTF_Duy_Tan_Another)
+[🔗 **View Writeup**](https://github.com/TranDongA3/WriteupCTF_PTIT_2025-Vong_loai)
 
 ---
 
-#### 🐛 **CTF Code Toàn Bug** | *Vulnerability Analysis Lab*
+#### 🕸️ **Writeup_ChungKetCTF_PTIT-Web-Exploitation**
 ```
-🔹 Developed intentionally vulnerable PHP applications
-🔹 Focused on common coding mistakes leading to security flaws
-🔹 Implemented scenarios for SQL injection, authentication bypass, and more
-🔹 Created detailed exploitation guides and remediation steps
+🔹 Tổng hợp các bài Web trong Chung Kết PTIT CTF
+🔹 Trình bày từng lỗ hổng, quy trình khai thác và cách vá cơ bản
+🔹 Nhấn mạnh các kỹ thuật: XSS, SSRF, SQLi, auth bypass (tùy đề)
 ```
-**🎯 Learning Outcomes:** Enhanced skills in secure coding practices and vulnerability assessment
-
-[🔗 **View Project**](https://github.com/TranDongA3/CTF_code_toan_bug_PHP_aplication) | [📚 **Code Analysis**](https://github.com/TranDongA3/CTF_code_toan_bug_PHP_aplication/blob/main/README.md)
+[🔗 **View Writeup**](https://github.com/TranDongA3/Writeup_ChungKetCTF_PTIT-Web-Exploitation)
 
 ---
 
-### 💼 **Full-Stack Security Project**
-
-#### 🛒 **Secure E-Commerce Platform**
+#### 🌞 **Writeup_SunshineCTF**
 ```
-🔹 Built with security-first development approach
-🔹 Implemented robust authentication and authorization
-🔹 Applied OWASP security guidelines throughout development
-🔹 Features: Secure payment processing, input validation, session management
+🔹 Ghi chép lời giải các challenge tiêu biểu tại SunshineCTF
+🔹 Tập trung vào Web/Forensics/Crypto (tùy challenge)
+🔹 Mô tả tư duy, công cụ sử dụng và bài học rút ra
 ```
-**🛡️ Security Features:**
-- JWT-based authentication with secure token handling
-- SQL injection prevention through parameterized queries
-- XSS protection with input sanitization and CSP headers
-- HTTPS enforcement and secure cookie implementation
+[🔗 **View Writeup**](https://github.com/TranDongA3/Writeup_SunshineCTF)
 
-**🔧 Tech Stack:** Node.js, Express.js, React, MySQL, Tailwind CSS
+---
 
-[🔗 **Backend Repository**](https://github.com/thunww/Ecommerce-Be) | [🔗 **Frontend Repository**](https://github.com/thunww/Ecommerce-Fe) | [🛡️ **Security Features**](#security-implementation)
+#### 🧠 **TECH-OLYMPICS-2025-CTF_Writeup**
+```
+🔹 Tổng hợp writeup CTF TECH OLYMPICS 2025
+🔹 Trình bày chi tiết hướng giải và script minh họa
+🔹 Tập trung best-practices khi khai thác và phòng thủ cơ bản
+```
+[🔗 **View Writeup**](https://github.com/TranDongA3/TECH-OLYMPICS-2025-CTF_Writeup)
 
 ---
 
