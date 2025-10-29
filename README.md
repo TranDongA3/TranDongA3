@@ -101,6 +101,12 @@
 [🔗 **View Writeup**](https://github.com/TranDongA3/TECH-OLYMPICS-2025-CTF_Writeup)
 
 ---
+#### 🧠 **Simulation_CVE-2024-46256**
+```
+🔹 Comprehensive POC for CVE-2024-46256
+🔹 Detailed approach with OS command Injection Advanced
+```
+[🔗 **View Writeup**](https://github.com/TranDongA3/Simulation_CVE-2024-46256)
 
 ## 📈 Security Learning Path
 
